@@ -32,8 +32,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Welcome! I am a fifth-year Ph.D. student in the Department of Economics and Education at Columbia University. I expect to graduate in Spring 2027. 
+Welcome! I am a fifth-year Ph.D. student in the Department of Economics and Education at Teachers College, Columbia University. 
 
-My research focuses on topics in development, education, health, and gender economics. I use both lab experiments and tools from applied microeconomics. My current projects are based in Peru and Mozambique.
+My research focuses on topics in development, education, health, and gender economics. I use both experiments and tools from applied microeconomics. My current projects are based in Peru and Mozambique.
 
 I received my master’s degree in Economics from Los Andes University in Bogotá, Colombia, and a  bachelor’s degree in Economics from Universidad Nacional Mayor de San Marcos in Lima, Peru.
